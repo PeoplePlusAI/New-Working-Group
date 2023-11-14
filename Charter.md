@@ -1,6 +1,6 @@
 > Charters live within a working groups GitHub Repository. This is an empty template to craft a charter.
 
-# Anchor: <Insert name of Anchor>
+# Anchor: Insert name of Anchor
 
 # Collective Hope/ Dream
 > An imagined future that the group hopes to make a reality. A crisp, evocative and vivid description that can help supporters and volunteers understand the groups north star.
